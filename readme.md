@@ -38,20 +38,26 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+-het namaken van het eerste deel van de website qua letters en vormgeving ging goed, verder heb ik veel moeite met het responsive maken van de website. ik begin nu namelijk small screen dus als ik het verbreed naar desktop klopt er niks meer van. Dit wil ik dus leren. verder moet ik nu gebruik maken van een grid omdat mijn site veel images heeft in een grid. alleen weet ik nog niet hoe dit moet.maar over het algemeen ben ik wel tevreden met wat ik al heb.-
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+<img width="388" alt="voortgang1" src="https://user-images.githubusercontent.com/74154796/100232966-5f104b00-2f29-11eb-8f88-07fcfb6beac1.png">
+<img width="384" alt="voortgang2" src="https://user-images.githubusercontent.com/74154796/100232972-62a3d200-2f29-11eb-8d57-c4bf18881d1b.png">
+<img width="946" alt="voortgang3" src="https://user-images.githubusercontent.com/74154796/100232976-63d4ff00-2f29-11eb-8f01-ed4744338861.png">
+
+-screenshot(s)
+boven de tweede button moeten dus foto's met grid, maar dat is me nog niet gelukt. helaas is het onderste lettertype ook niet hetzelfde (de echte is een betaalde font)- verder is dit wel zoals het eruit ziet op de echte site en is het bovenste gedeelte al responsive :).
 
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
 
-| student 1      | student 2          | student 3    | student 4        |
+| Moon Warmer    | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| Grids bespreken
+ en responsive    | en dit             | en ik dit    | en dan ik dat    |
+| maken bespreken | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 ### Verslag van meeting
