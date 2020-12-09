@@ -30,7 +30,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+-ik moest deze week alle classes verwijderen en mijn html en css netjes maken. heb net met sanne lang gebeld en nu ben ik heel erg tevreden!!!. nu nog ff kijken welke pagina ik ga namaken en nog even het menu+footer fixen en de paar regels javascript fixen. ik ben blij, maar nog wel moeilijk. het ziet er in ieder geval uit als de echte site.
 
 
 
@@ -38,7 +38,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--Het namaken van het eerste deel van de website qua letters en vormgeving ging goed, verder heb ik veel moeite met het responsive maken van de website. Ik begin nu namelijk small screen dus als ik het verbreed naar desktop klopt er niks meer van. Dit wil ik dus leren. Verder moet ik nu gebruik maken van een grid omdat mijn site veel images heeft in een grid, alleen weet ik nog niet hoe dit moet. Maar over het algemeen ben ik wel tevreden met wat ik al heb.-
+-het namaken van het eerste deel van de website qua letters en vormgeving ging goed, verder heb ik veel moeite met het responsive maken van de website. ik begin nu namelijk small screen dus als ik het verbreed naar desktop klopt er niks meer van. Dit wil ik dus leren. verder moet ik nu gebruik maken van een grid omdat mijn site veel images heeft in een grid. alleen weet ik nog niet hoe dit moet.maar over het algemeen ben ik wel tevreden met wat ik al heb.-
 
 **Screenshot(s):**
 
@@ -47,7 +47,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 <img width="946" alt="voortgang3" src="https://user-images.githubusercontent.com/74154796/100232976-63d4ff00-2f29-11eb-8f01-ed4744338861.png">
 
 -screenshot(s)
-Boven de tweede button moeten dus foto's met grid, maar dat is me nog niet gelukt. Helaas is het onderste lettertype 'suggestions for you' ook niet hetzelfde (de echte is een betaalde font)- Verder is dit wel zoals het eruit ziet op de echte site en is het bovenste gedeelte al responsive (laatste screenshot) :).
+boven de tweede button moeten dus foto's met grid, maar dat is me nog niet gelukt. helaas is het onderste lettertype ook niet hetzelfde (de echte is een betaalde font)- verder is dit wel zoals het eruit ziet op de echte site en is het bovenste gedeelte al responsive :).
 
 ### Agenda voor meeting
 
