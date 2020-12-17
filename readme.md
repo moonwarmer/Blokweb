@@ -24,21 +24,30 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+-Net voortganggesprek gehad met Marvin, ging goed. Heb wel echt hulp nodig bij de footer die inklapt en plusjes heeft als het scherm kleiner wordt. Ik moet nog een caroussel maken onder de foto's op de detailpagina, moet de navigatie nog goed maken, een counter toevoegen (form element) en met javascript dat toevoegen aan favorieten (zin in!!!). OVer het algemeen
+had ik niet verwacht dat het zo zou lukken en dat ik het een beetje (niet teveel) leuk zou vinden :).
 
+screenshots van alles tot nu
+
+<img src='images/allestotnu1.png'>
+<img src='images/voortgang22.png'>
+<img src='images/allestotnu3.png'>
+<img src='images/allestotnu4.png'>
+<img src='images/allestotnu5.png'>
 
 
 ## Voortgang 2 (week 5)
 
--ik moest deze week alle classes verwijderen en mijn html en css netjes maken. heb net met sanne lang gebeld en nu ben ik heel erg tevreden!!!. nu nog ff kijken welke pagina ik ga namaken en nog even het menu+footer fixen en de paar regels javascript fixen. ik ben blij, maar nog wel moeilijk. het ziet er in ieder geval uit als de echte site.
+-Ik moest deze week alle classes verwijderen en mijn html en css netjes maken. Ik heb net met sanne lang gebeld en nu ben ik heel erg tevreden!!!. Nu moet ik nog ff kijken welke pagina ik ga namaken en nog even het menu+footer fixen en de paar regels javascript fixen. ik ben blij, maar nog wel moeilijk. het ziet er in ieder geval uit als de echte site.
 
-
+<img src='images/voortgang22.png'>
+<img src='images/voortgang222.png'>
 
 ## Voortgang 1 (week 3)
 
 ### Stand van zaken
 
--het namaken van het eerste deel van de website qua letters en vormgeving ging goed, verder heb ik veel moeite met het responsive maken van de website. ik begin nu namelijk small screen dus als ik het verbreed naar desktop klopt er niks meer van. Dit wil ik dus leren. verder moet ik nu gebruik maken van een grid omdat mijn site veel images heeft in een grid. alleen weet ik nog niet hoe dit moet.maar over het algemeen ben ik wel tevreden met wat ik al heb.-
+-Het namaken van het eerste deel van de website qua letters en vormgeving ging goed, verder heb ik veel moeite met het responsive maken van de website. Ik begin nu namelijk small screen dus als ik het verbreed naar desktop klopt er niks meer van. Dit wil ik dus leren. verder moet ik nu gebruik maken van een grid omdat mijn site veel images heeft in een grid.(dit was dus uiteindelijk helemaal niet waar haha) alleen weet ik nog niet hoe dit moet, maar over het algemeen ben ik wel tevreden met wat ik al heb.-
 
 **Screenshot(s):**
 
