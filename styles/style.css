@@ -1,6 +1,8 @@
 /* CSS Document */
 	@import url('https://fonts.googleapis.com/css2?family=Mr+De+Haviland&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Liu+Jian+Mao+Cao&family=Zeyada&display=swap');
+
 *, *::after, *::before {
   box-sizing:border-box;
 }
@@ -9,7 +11,8 @@ html {
   ;
 }
 
-body {background-color: #fff;
+body {
+	background-color: #fff;
 	margin: 0;
 	padding: 0;
 	font-family:'Courier Prime', monospace;
@@ -17,11 +20,20 @@ body {background-color: #fff;
   font-size:15px;
   -webkit-font-smoothing:antialiased;
 }
+/* alle htjes*/
+header p {
+	background-color: #EADAD0;
+	color: black;
+	padding: 0.8em;
+	margin-top: 0;
+}
 
-h1 {text-align: center;
+h1 {
+	text-align: center;
   font-family: 'Courier Prime';
   margin: 10px;
 }
+
 h2 {
   text-align: center;
   color: #333333;
@@ -31,14 +43,16 @@ h2 {
   margin: 0;
 }
 
-h3 {font-family: 'mr de Haviland';
-font-weight: lighter;
-font-size: 42px;
-color: #1B1919;
-margin-left: 80px;
+h3 {
+	font-family: 'mr de Haviland';
+	font-weight: lighter;
+	font-size: 42px;
+	color: #1B1919;
+	margin-left: 80px;
 }
 
-h4 {color: #252222;
+h4 {
+	color: #252222;
  	font-weight: lighter;
  	font-size: 15px;
  	border-bottom: 1px solid rgba(0,0,0,.1);
@@ -49,61 +63,71 @@ h4 {color: #252222;
 
 p { text-align: center;
   color: #b1b1b1;
-
   font-family: 'Courier Prime';
 	font-size: 15px;
 	font-weight: 100;
 }
+/*nav*/
 
-ul {
+nav > a > img {
+	width: 1.5em;
+	margin: 0.5em;
+}
+
+nav ul {
+	display: flex;
 
 }
-li {display: inline;
+
+nav ul > li {
+	display: inline;
 	margin-left: 40px;
 
 }
-a { text-decoration: none;
+
+a {
+	text-decoration: none;
   font-family: 'Courier Prime';
 	color: black;
 	font-size: 15px;
 }
 
+/*eerste sectie*/
+
 section > a,
 section > div > a {
-display: inline-block;
-background-color: #333;
-color: White;
-font-weight: lighter;
-padding: 0 1em;
-margin: 20px auto;
-text-align: center;
-line-height: 40px;
-margin-bottom: 80px;}
+	display: inline-block;
+	background-color: #333;
+	color: White;
+	font-weight: lighter;
+	padding: 0 1em;
+	margin: 20px auto;
+	text-align: center;
+	line-height: 40px;
+	margin-bottom: 80px;}
 
-section:nth-of-type(2) > a {
-background-color: #EADAD0;
-color: black;
-}
-
-.logo {width: 150px;
-margin-top: 20px;
-margin-bottom: 20px;
-margin-left: 100px;}
-
+.logo{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	width: 25em;
+	padding: 30px;}
 
 section:first-of-type
  {display: flex;
- flex-wrap: wrap;}
+ flex-wrap: wrap;
+padding: 0 10px;}
 
-main section:first-of-type img {
-width: 40%;
-min-width: 350px;
-margin: 0 1em;}
+section:first-of-type img {
+	width: 40%;
+	min-width: 350px;
+	margin: 0 1em;}
 
 div {
 	max-width: 426px;
 	text-align: center;
 }
+/*tweede sectie*/
 
 section:nth-of-type(2) {
 	display: grid;
@@ -111,10 +135,16 @@ section:nth-of-type(2) {
 	grid-gap: 2em;
 	padding: 2em;
 }
+
 section:nth-of-type(2) article {
 	 display: flex;
 	 flex-direction: column;
 	 position: relative;
+}
+
+section:nth-of-type(2) > a {
+	background-color: #EADAD0;
+	color: black;
 }
 
 section:nth-of-type(2) h3 {
@@ -163,6 +193,8 @@ section:nth-of-type(2) > a {
 	grid-column-end: -1;
 }
 
+/*derde sectie*/
+
 section:nth-of-type(3) img {
 	width: 40%;
 	min-width: 350px;
@@ -171,19 +203,24 @@ section:nth-of-type(3) img {
 
 section:nth-of-type(3){
 	display: flex;
- 	flex-wrap: wrap;}
+ 	flex-wrap: wrap;
+	flex-direction: row-reverse;
+	padding: 0 10px;
+}
+
+/*vierde sectie = detailpagina*/
 
 section:nth-of-type(4) img {
 	width: 50%;
  	min-width: 350px;
  	margin: 0 1.5em;}
 
-section:nth-of-type(4)
-	 {display: flex;
+section:nth-of-type(4){
+		display: flex;
 	 flex-wrap: wrap;}
 
 section:nth-of-type(4) h1 {
-	font-family:'mr de Haviland';
+	font-family:'Liu Jian Mao Cao';
 	font-weight: lighter;
   color: black;
 	font-size: 40px;
@@ -197,6 +234,14 @@ section:nth-of-type(4) p {
 	font-size: 15px;
 	text-align:left;
 }
+section:nth-of-type(4) p em {
+	font-style: normal;
+}
+section:nth-of-type(4) p em::before{
+	content: '☆';
+	padding-right: 1ch;
+	font-size: 120%;
+}
 
 section:nth-of-type(4) ul {
 	background-color: rgba(241,227,217,0.2);
@@ -207,10 +252,11 @@ section:nth-of-type(4) ul {
 }
 
 section:nth-of-type(4) ul > li {
-	display: flex;
+	display: list-item;
 	padding:0 0 0 1ch;
   line-height:1.6875em;
   margin-left: 0;
+	text-align: left;
 }
 
 section:nth-of-type(4) li:first-of-type {
@@ -229,14 +275,8 @@ section:nth-of-type(4) div > a {
 	background-color: #EADAD0;
 	color: black;
 }
-section:nth-of-type(4) div > img {
-	width: 0.8em;
-height: 0.8em;
-position: absolute;}
 
-section:nth-of-type(4) p:nth-of-type(4) {
-  margin-left: 1em;
-}
+
 
 a:link {
 
@@ -314,9 +354,42 @@ aside {
 
 }
 
-footer {
 
+footer {
+	background-color: #white;
 }
+
+footer li {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 1em;
+}
+
+footer p:first-of-type {
+	font-weight: 900;
+	font-size: 16px;
+	color: black;
+	margin-bottom: 2em;
+	text-align: left;
+	margin-left: 1em;
+}
+
+footer p em {
+		font-style: normal;
+		color: #4C4C4C;
+	}
+
+footer p em::before{
+		content: '➤';
+		color: black;
+		padding-right: 1ch;
+		font-size: 120%;
+	}
+
+
+
+
+
 
 /* Component styling */
 section#some-ultra-cool-component {
