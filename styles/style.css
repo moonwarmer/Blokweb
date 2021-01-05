@@ -72,6 +72,8 @@ p { text-align: center;
 nav > a > img {
 	width: 1.5em;
 	margin: 0.5em;
+
+
 }
 
 nav ul {
@@ -215,6 +217,11 @@ section:nth-of-type(4) img {
  	min-width: 350px;
  	margin: 0 1.5em;}
 
+div:nth-of-type(3) img {
+
+}
+
+
 section:nth-of-type(4){
 		display: flex;
 	 flex-wrap: wrap;}
@@ -239,6 +246,11 @@ section:nth-of-type(4) p em {
 }
 section:nth-of-type(4) p em::before{
 	content: '☆';
+	padding-right: 1ch;
+	font-size: 120%;
+}
+section:nth-of-type(4) em:last-of-type em::before{
+	content: '♡';
 	padding-right: 1ch;
 	font-size: 120%;
 }
@@ -276,7 +288,9 @@ section:nth-of-type(4) div > a {
 	color: black;
 }
 
-
+section:nth-of-type(3) div > img {
+  width: 1.5em;
+}
 
 a:link {
 
