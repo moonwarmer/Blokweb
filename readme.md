@@ -14,12 +14,17 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+-Ik ben er vandaag veel mee bezig geweest, alles ging goed tot het einde, opeens is mobiele versie helemaal verpest. Heb geen idee hoe het komt. Desktop is goed maar opeens mobiel allemaal niet meer, terwijl dat voorheen wel gewoon prima was. helaas moet ik het nu inleveren. footer responsive maken is me niet gelukt en slider maken onder detailpagina ook niet. Ik was super tevreden tot ik er nu achter kom dat mobiele versie opeens is verpest??? naja heb iig nog maar 10 minuten om het in te leveren dus kijken er morgen wel naar. jammer weer dit. verder vond ik het allemaal lastig maar met hulp begreep ik dingen steeds meer, maar ben nu gewoon geirriteerd dat die mobiel versie opeens niet meer klopt terwijl die altijd klopte.-
+
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
-
+<img src='images/eind1.png'>
+<img src='images/eind2.png'>
+<img src='images/eind3.png'>
+<img src='images/eind4.png'>
+<img src='images/eind5.png'>
+<img src='images/eind6.png'>
 
 
 ## Voortgang 3 (week 6)
