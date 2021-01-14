@@ -6,10 +6,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
-
+1. -bron 1- the noun project/flaticon
+2. -bron 2- sanne javascript url 
+3. -by Nouck https://bynouck.com/
 
 
 ## Eindgesprek (week 7/8)

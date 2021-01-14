@@ -108,10 +108,17 @@ header > ul:first-of-type {
 	display: none;
 }
 
+header > ul:first-of-type li {
+  margin: 0.5em;
+}
+
+header > ul:nth-of-type(2) li {
+  margin: 0.5em;
+}
+
 header > ul img {
 	width: auto;
 	height: 1.5em;
-  margin: 0.5em;
 }
 
 /*nav*/
@@ -176,7 +183,7 @@ nav ul > li a {
 		justify-content: center;
 		background-color: white;
 	}
-
+}
 /*eerste sectie*/
 
 body.homepage section > a,
@@ -208,7 +215,8 @@ body.homepage section:first-of-type div {
 	text-align: center;
 }
 
-div {
+body.homepage section:first-of-type div,
+body.homepage section:nth-of-type(3) div {
   max-width: 426px;
   text-align: center;
 }
@@ -365,6 +373,12 @@ body.detailpagina section:nth-of-type(1) ul > li {
 	text-align: left;
 }
 
+body.detailpagina div {
+  max-width: 426px;
+  text-align: center;
+}
+
+
 body.detailpagina section:nth-of-type(1) li:first-of-type {
   font-weight:700;
 }
@@ -431,6 +445,7 @@ footer p em::before{
 
 footer div {
   display: flex;
+  flex-wrap: wrap;
 }
 
 
