@@ -6,18 +6,40 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1- the noun project/flaticon
-2. -bron 2- sanne javascript url 
-3. -by Nouck https://bynouck.com/
+1. By Nouck https://bynouck.com/
+2. Sanne javascript les https://codepen.io/shooft/pen/PoNQwXY
+3. Google fonts https://fonts.google.com/
+4. Css tricks (voor kleine dingetjes) https://css-tricks.com/almanac/
+4. Veel hulp van Marvin en Sanne, heb niks aan internet gehad.
+
 
 
 ## Eindgesprek (week 7/8)
 
--Ik ben er vandaag veel mee bezig geweest, alles ging goed tot het einde, opeens is mobiele versie helemaal verpest. Heb geen idee hoe het komt. Desktop is goed maar opeens mobiel allemaal niet meer, terwijl dat voorheen wel gewoon prima was. helaas moet ik het nu inleveren. footer responsive maken is me niet gelukt en slider maken onder detailpagina ook niet. Ik was super tevreden tot ik er nu achter kom dat mobiele versie opeens is verpest??? naja heb iig nog maar 10 minuten om het in te leveren dus kijken er morgen wel naar. jammer weer dit. verder vond ik het allemaal lastig maar met hulp begreep ik dingen steeds meer, maar ben nu gewoon geirriteerd dat die mobiel versie opeens niet meer klopt terwijl die altijd klopte.-
+-Ik ben er vandaag veel mee bezig geweest, alles ging goed tot het einde, opeens is mobiele versie helemaal verpest. Heb geen idee hoe het komt. Desktop is goed maar opeens mobiel allemaal niet meer, terwijl dat voorheen wel gewoon prima was. helaas moet ik het nu inleveren. footer responsive maken is me niet gelukt en slider maken onder detailpagina ook niet. Ik was super tevreden tot ik er nu achter kom dat mobiele versie opeens is verpest??? naja heb in ieder geval nog maar 10 minuten om het in te leveren dus kijken er morgen wel naar. jammer weer dit. verder vond ik het allemaal lastig maar met hulp begreep ik dingen steeds meer, maar ben nu gewoon geirriteerd dat die mobiel versie opeens niet meer klopt terwijl die altijd klopte.-
+
+Screenreader test:
+
+Voor herkansing:
+
+-dus dat wat hiervoor gebeurde kwam door 1 stom haakje, maar in ieder geval dus snel opgelost. Mijn taak voor de herkansing: bronnenlijst regelen en screenreader test doen.
+
+Wat ging goed?
+
+Wat heb ik uiteindelijk geleerd deze 8 weken? Best wel veel. Deze technische vakken liggen mij gewoon niet, maar ik wilde het in ieder geval sowieso proberen en halen. Ik ben blij met de keuze van mijn site want ik vond het uiteindelijk nog best leuk om te doen. Ik denk dat ik er nooit goed in zal worden maar het is in ieder geval geen chinees meer voor mij. Ik vind het leuk dat ik een vak een beetje leuk ben gaan vinden ook al zag ik er tegen op. Ik had het alleen niet gekund zonder hulp, dus daar ben ik heel blij mee. En al zeg ik het zelf ben ik echt wel trots op het eindresultaat en op mezelf dat ik ben blijven proberen.
+
 
 
 **Screenshot(s):**
 
+mobiele versie:
+<img src='images/mobiel1.png'>
+<img src='images/mobiel2.png'>
+<img src='images/mobiel3.png'>
+<img src='images/mobiel4.png'>
+
+
+desktop versie:
 <img src='images/eind1.png'>
 <img src='images/eind2.png'>
 <img src='images/eind3.png'>
@@ -28,8 +50,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--Net voortganggesprek gehad met Marvin, ging goed. Heb wel echt hulp nodig bij de footer die inklapt en plusjes heeft als het scherm kleiner wordt. Ik moet nog een caroussel maken onder de foto's op de detailpagina, moet de navigatie nog goed maken, een counter toevoegen (form element) en met javascript dat toevoegen aan favorieten (zin in!!!). OVer het algemeen
-had ik niet verwacht dat het zo zou lukken en dat ik het een beetje (niet teveel) leuk zou vinden :).
+-Net voortgangsgesprek gehad met Marvin, ging goed. Heb wel echt hulp nodig bij de footer die inklapt en plusjes heeft als het scherm kleiner wordt. Ik moet nog een caroussel maken onder de foto's op de detailpagina, moet de navigatie nog goed maken, een counter toevoegen (form element) en met javascript dat toevoegen aan favorieten (zin in!!!). OVer het algemeen had ik niet verwacht dat het zo zou lukken en dat ik het een beetje (niet teveel) leuk zou vinden :).
 
 screenshots van alles tot nu
 
