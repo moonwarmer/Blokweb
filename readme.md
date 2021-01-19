@@ -7,10 +7,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 1. By Nouck https://bynouck.com/
-2. Sanne javascript les https://codepen.io/shooft/pen/PoNQwXY
+2. Sanne javascript les (menu) https://codepen.io/shooft/pen/PoNQwXY
 3. Google fonts https://fonts.google.com/
 4. Css tricks (voor kleine dingetjes) https://css-tricks.com/almanac/
-4. Veel hulp van Marvin en Sanne, heb niks aan internet gehad.
+4. Veel hulp van Marvin en Sanne, heb niet veel aan internet gehad.
 
 
 
@@ -18,7 +18,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -Ik ben er vandaag veel mee bezig geweest, alles ging goed tot het einde, opeens is mobiele versie helemaal verpest. Heb geen idee hoe het komt. Desktop is goed maar opeens mobiel allemaal niet meer, terwijl dat voorheen wel gewoon prima was. helaas moet ik het nu inleveren. footer responsive maken is me niet gelukt en slider maken onder detailpagina ook niet. Ik was super tevreden tot ik er nu achter kom dat mobiele versie opeens is verpest??? naja heb in ieder geval nog maar 10 minuten om het in te leveren dus kijken er morgen wel naar. jammer weer dit. verder vond ik het allemaal lastig maar met hulp begreep ik dingen steeds meer, maar ben nu gewoon geirriteerd dat die mobiel versie opeens niet meer klopt terwijl die altijd klopte.-
 
-Screenreader test:
+Screenreader analsye:
+
+Ik word niet echt vrolijk van deze voiceover. Ten eerste is mijn voice over Nederlands terwijl mijn website in het Engels is. Maar over het algemeen is het best prima gegaan naast dat ik er gestoord van werd. Mijn alt teksten zijn redelijk duidelijk, heb er misschien 2 aangepast. Ben door de website heen gegaan door steeds op tab te klikken. Kwam eigenlijk niks raars tegen behalve dat hij ook steeds opnoemt wat het is, bijvoorbeeld een link. Ik weet niet of dat de bedoeling is. Maar de alt teksten zijn vrij duidelijk naar mijn mening dus prima te begrijpen voor iemand met een screenreader.
 
 Voor herkansing:
 
