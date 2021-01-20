@@ -448,6 +448,10 @@ footer div {
   flex-wrap: wrap;
 }
 
+body.detailpagina footer div {
+  display: flex;
+  flex-wrap: wrap;
+}
 
 /* Component styling */
 section#some-ultra-cool-component {

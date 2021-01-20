@@ -34,14 +34,8 @@ Wat heb ik uiteindelijk geleerd deze 8 weken? Best wel veel. Deze technische vak
 
 **Screenshot(s):**
 
-mobiele versie:
-<img src='images/mobiel1.png'>
-<img src='images/mobiel2.png'>
-<img src='images/mobiel3.png'>
-<img src='images/mobiel4.png'>
+Eindresultaat:
 
-
-desktop versie:
 <img src='images/eind1.png'>
 <img src='images/eind2.png'>
 <img src='images/eind3.png'>
